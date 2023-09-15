@@ -1,6 +1,6 @@
-import './sass/index.scss';
-import NewsApiService from './js/api-service';
-import { lightbox } from './js/lightbox';
+import '../sass/index.scss';
+import NewsApiService from './api-service';
+import { lightbox } from './ligthbox';
 import { Notify } from 'notiflix/build/notiflix-notify-aio';
 
 const refs = {
